@@ -14,8 +14,11 @@ body{
     height: 700px;
     grid-template-rows: 0.5fr 3fr 0.5fr;
     grid-template-columns: 3fr 1fr;
-    background-color: #a270ff;
+    background-color: #D26079;
 
+}
+button{
+    cursor: pointer;
 }
 #display{
     border: solid 10px rgb(94, 85, 75);
@@ -30,21 +33,21 @@ body{
     font: 400 80px montserrat;
     border: solid 3px black;
     border-radius: 49%;
-    background-color: #ffcf70;
+    background-color: #38C7A7;
 }
 .operateButtons button{
     font: 400 80px "montserrat";
     border: solid 3px black;
     border-radius: 10%;
     font-weight: bold;
-    background-color: #ffcf70;
+    background-color: #38C7A7;
 
 }
 .digitButtons button{
     font: 400 30px "montserrat";
     border: solid 3px black;
     border-radius: 10%;
-    background-color: #ffcf70;
+    background-color: #38C7A7;
 }
 
 .digitButtons{
